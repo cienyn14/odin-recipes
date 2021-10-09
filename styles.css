@@ -1,0 +1,38 @@
+*{
+    font-family: "Arial","Verdana",sans-serif;
+    text-align: center;
+}
+li
+{
+    text-align: left;
+}
+.title
+{
+    background-color: rgb(218, 105, 139);
+    font-weight: 900;
+    font-family: "Brush Script MT", cursive;
+}
+.redirect
+{
+    font-size: 18px;
+}
+.section
+{
+    background-color: rgb(76, 173, 218);
+    font-weight: 700;
+    text-align: left;
+}
+.white-text
+{
+    color:white;
+}
+img
+{
+    height:auto;
+    width: 500px;
+}
+#enjoy
+{
+    font-family: serif;
+    background-color: rgb(105, 218, 105);
+}
